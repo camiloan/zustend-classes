@@ -1,3 +1,4 @@
+export * from './wedding';
 export * from '../tasks/task.store';
 export { firebaseStorage } from './storages/firebase.storage';
 export { customSessionStorage } from './storages/session-storage.storage';
