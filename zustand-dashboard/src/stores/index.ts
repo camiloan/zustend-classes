@@ -1,3 +1,4 @@
+export * from './auth/auth.store';
 export * from './wedding';
 export * from '../tasks/task.store';
 export { firebaseStorage } from './storages/firebase.storage';
